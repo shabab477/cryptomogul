@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRYPTOMOGUL</string>
+    <string name="drawer_open">Drawer Opened</string>
+    <string name="drawer_close">Drawer Closed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Altfolio</string>
+    <string name="choose">Confirm</string>
+    <string name="cancel">Cancel</string>
+</resources>
